@@ -1,3 +1,5 @@
+//★2
+//失敗
 #include<bits/stdc++.h>
 using namespace std;
 

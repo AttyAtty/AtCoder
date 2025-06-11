@@ -1,3 +1,5 @@
+//★２
+//成功
 #include<bits/stdc++.h>
 #include <iostream>
 #include <vector>
